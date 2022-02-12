@@ -1,0 +1,53 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color:#006400;
+    padding: 4px;
+}
+
+header img{
+    margin: 3px;
+}
+
+h1{
+    color:deeppink;
+    font-size: 40px;
+}
+
+footer{
+    background-color: deepskyblue;
+    padding: 3px;
+}
+
+nav a{
+    border: solid darkblue 3px;
+    text-decoration: none;
+    background-color: darkblue;
+    color: white;
+    border-radius: 30px;
+    padding: 2px;
+    margin: 5px;
+}
+
+nav {
+    margin: 10px;
+}
+
+.amogus {
+    background-color: salmon;
+}
+
+main p {
+    font-size: 20px;
+}
+
+h2{
+    color: blue;
+}
+
+a {
+    color: green;
+    text-decoration: none;
+}
